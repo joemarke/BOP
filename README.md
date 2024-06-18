@@ -6,3 +6,7 @@ Created in SwiftUI using MVVM with Firebase integration, _BOP!_ is a passion pro
 Following numerous iterations of the designs, tech stack and just about every single other detail that goes into making an app, I finally settled on a finalised plan for _BOP!_. A stunning, highly stylised UI to keep users engaged, elegantly crafted with delightful transitions and animations in SwiftUI, with secure data storage using Firebase and Cloud Firestore. Remote notifications delivered via Cloud Functions will be used to ensure users are always kept up to date, with account creation and iPad support planned for the future.
 
 Development for _BOP!_ is in full swing, and I am confident it will be a smash hit when it lands.
+
+
+<img src="/Images/BOPScreenshot1.png" width="400"> <img src="/Images/BOPScreenshot2.png" width="400">
+
